@@ -1,7 +1,7 @@
 import sys
 from tkinter import filedialog
 import tkinter as tk
-from src import ExcelReader, RamQDetector
+from utils import ExcelReader, RamQDetector
 
 
 def functions():
